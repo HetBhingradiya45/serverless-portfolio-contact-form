@@ -428,10 +428,7 @@ Open **DynamoDB → Explore items → PortfolioSubmissions** and confirm the new
 
 ## Author
 
-**Het Bhingradiya**
-
-- GitHub: [your-username](https://github.com/your-username)
-- LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)
+**Het Bhingradiya
 
 ---
 
